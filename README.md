@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cortesCasado
+- 👀 I’m interested in RPA development
+- 🌱 I’m currently learning UiPath and .NET Core
